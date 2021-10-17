@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import font
 
-# What I have learned. I can make this into a class definfing the functions inside, renaming elements to not have problems with scoping and further small details.
-
+"""This code is no longer being updated as its not very maintainble. I first started this project when I was about 14 so
+I was just learning Python so that why this is drity code lol. I no longer code like this I promise."""
 
 def response_function(entry):
     if entry.lower() == 'cough':
